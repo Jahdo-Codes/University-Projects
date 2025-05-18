@@ -16,7 +16,7 @@ These projects reflect my journey in transitioning from Phyiscs teacher to Data 
 
 ---
 
-## 🧠 Project Highlights
+## Project Highlights
 
 | Project | Description | Tools & Skills |
 |--------|-------------|----------------|
@@ -27,7 +27,7 @@ These projects reflect my journey in transitioning from Phyiscs teacher to Data 
 
 ## Contact
 
-- Email: jahdo@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- Location: Poughkeepsie, NY
+- Email: jahdovpool@hotmail.com
+- GitHub: [Jahdo-Codes](https://github.com/Jahdo-Codes)
+- LinkedIn: [Jahdo Vanterpool](https://www.linkedin.com/in/jahdo-vanterpool/)
 
